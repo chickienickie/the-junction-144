@@ -177,7 +177,7 @@ header .navbar-brand span {
 }
 
 header .navbar {
-    background: black !important;
+   
     padding-top: .5rem;
     padding-bottom: .5rem
 }
@@ -1649,6 +1649,13 @@ font-size: 38px;
   .slider-item {
     width: 400px;
     height: 400px;
+  }
+  .heading {
+    text-align: center;
+  }
+
+  .bg-dark {
+    background-color: none;
   }
 }
 
