@@ -46,7 +46,13 @@ font-family: "DM Serif Display", serif;
   
 }
 
-
+.emphasis {
+    font-size: 20px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 800;
+    color: #000;
+    line-height: normal;
+}
 .btn,
 .form-control {
     outline: none;
@@ -1611,7 +1617,7 @@ header .navbar .cta-btn a:hover {
 }
 
 a:visited {
-    color: #868e96
+    color: black;
 
   }
 
