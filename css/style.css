@@ -1654,9 +1654,10 @@ font-size: 38px;
     text-align: center;
   }
 
-  .bg-dark {
-    background-color: none;
+  .heading-wrap {
+    text-align: center;
   }
+  
 }
 
 
