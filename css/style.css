@@ -46,6 +46,15 @@ font-family: "DM Serif Display", serif;
   
 }
 
+a.nav-link.active {
+    color: #fff;
+    line-height: 1.2;
+    font-family: "Raleway" !important;; 
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+}
+
 .emphasis {
     font-size: 20px;
     font-family: "DM Serif Display", serif;
@@ -1661,10 +1670,3 @@ font-size: 38px;
 }
 
 
-
-
-
-
-
- 
-/*# sourceMappingURL=style.css.map */
