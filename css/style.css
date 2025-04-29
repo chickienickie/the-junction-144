@@ -3,6 +3,11 @@ html {
 }
 
 body {
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch; /* Enables smooth scrolling on iOS */
+  }
+
+body {
     background: #fff;
     font-family: "Open Sans", Arial, sans-serif;
     font-weight: 400;
