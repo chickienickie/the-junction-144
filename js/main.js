@@ -50,6 +50,8 @@
     // other settings
   });
 
+ 
+
 	// home slider
 	$('.home-slider').owlCarousel({
     loop:true,
