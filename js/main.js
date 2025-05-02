@@ -42,6 +42,13 @@
     location.href = this.href;
   });
 
+  $('.owl-carousel').owlCarousel({
+    items: 1,
+    loop: true,
+    touchDrag: true,
+    mouseDrag: false,
+    // other settings
+  });
 
 	// home slider
 	$('.home-slider').owlCarousel({

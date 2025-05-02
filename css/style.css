@@ -16,6 +16,9 @@ body {
     color: #868e96
 }
 
+.owl-carousel {
+    touch-action: pan-y;
+  }
 a {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
