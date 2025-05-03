@@ -1680,3 +1680,9 @@ font-size: 38px;
 }
 
 
+@media (max-width: 768px) {
+    .animated-element {
+      animation-duration: 0.3s !important;
+      animation-delay: 0s !important;
+    }
+  }
