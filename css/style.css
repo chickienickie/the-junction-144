@@ -718,6 +718,10 @@ vertical-align: inherit;
     position: relative
 }
 
+.slider-wrap,
+.home-slider {
+  background: none !important;
+}
 
 .slider-item {
     background-size: cover;
