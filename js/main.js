@@ -80,9 +80,6 @@
     }
 	});
 
-  $('.home-slider').on('translated.owl.carousel', function(event) {
-    $('.slider-item').css('transform', 'translateZ(0)');
-  });
   
 
   $('.home-slider-loop-false').owlCarousel({
